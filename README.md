@@ -40,9 +40,9 @@ https://adittya-code.github.io/tic-tac-toe-game/
 
 📌 Tech Stack
 
-HTML5 – Page structure
-CSS3 – Styling and layout
-JavaScript (Vanilla) – Game logic & sound effects
+1. HTML5 – Page structure
+2. CSS3 – Styling and layout
+3. JavaScript (Vanilla) – Game logic & sound effects
 
 
 
@@ -54,12 +54,12 @@ JavaScript (Vanilla) – Game logic & sound effects
 
 
 📁 Files Included
-index.html     → Markup and board layout
-style.css      → UI styling
-script.js      → Game logic
-click.mp3      → Sound for button click
-win.wav        → Victory sound
-draw.mp3       → Draw sound
+1. index.html     → Markup and board layout
+2. style.css      → UI styling
+3. script.js      → Game logic
+4. click.mp3      → Sound for button click
+5. win.wav        → Victory sound
+6. draw.mp3       → Draw sound
 
 
 
@@ -91,10 +91,10 @@ draw.mp3       → Draw sound
 🙌 Contributing
 
 Feel free to:
-Improve UI (animations, hover effects)
-Add versus CPU mode
-Add scoreboard
-Add theme switcher
+1. Improve UI (animations, hover effects)
+2. Add versus CPU mode
+3. Add scoreboard
+4. Add theme switcher
 
 
 
