@@ -6,6 +6,7 @@ Play as X or O, enjoy sound effects, and see who wins — or ends in a draw!
 
 🕹️ Live Demo
 
+https://adittya-code.github.io/tic-tac-toe-game/
 
 
 
